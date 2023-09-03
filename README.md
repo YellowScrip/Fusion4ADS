@@ -29,6 +29,9 @@
 | Publications         | Paper                                                        |
 | :------------------- | :----------------------------------------------------------- |
 | IEEE 2020            | [A Survey of Autonomous Driving: Common Practices and Emerging Technologies]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9046805](https://ieeexplore.ieee.org/abstract/document/9046805)) |
+| Publications         | Paper                                                        |
+| :------------------- | :----------------------------------------------------------- |
+| IEEE 2020            | [A Survey of Autonomous Driving: Common Practices and Emerging Technologies]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9046805](https://ieeexplore.ieee.org/abstract/document/9046805)) |
 
 
 

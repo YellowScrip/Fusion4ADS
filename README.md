@@ -28,6 +28,8 @@
 | IEEE 2011            | [Vehicle Detection and Tracking in Car Video Based on Motion Model](https://ieeexplore.ieee.org/abstract/document/5723749) |
 | Elsevier 2010        | [On the modeling of pedestrian motion](https://www.sciencedirect.com/science/article/pii/S0307904X09001395) |
 ## Planning
+| Publications         | Paper                                                        |
+| :------------------- | :----------------------------------------------------------- |
 | IEEE 2021            | [Perceptual Enhancement for Autonomous Vehicles: Restoring Visually Degraded Images for Context Prediction via Adversarial Training](https://ieeexplore.ieee.org/abstract/document/9585517) |
 | ACM  2020            | [A Social Force Based Pedestrian Motion Model Considering Multi-Pedestrian Interaction with a Vehicle](https://dl.acm.org/doi/abs/10.1145/3373646) |
 

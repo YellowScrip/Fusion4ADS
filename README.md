@@ -1,8 +1,12 @@
 # From Hardware fusion to DeepLearning fusion Review for ADS
+| Publications         | Paper                                                        |
+| :------------------- | :----------------------------------------------------------- |
 | Sensors 2019         | [Sensor Data Acquisition and Multimodal Sensor Fusion for Human Activity Recognition Using Deep Learning](https://www.mdpi.com/1424-8220/19/7/1716) |
 | Elsevier 2021        | [A deep learning based image enhancement approach for autonomous driving at night](https://www.sciencedirect.com/science/article/pii/S0950705120307462) |
 ---
 # Hardware Fusion
+| Publications         | Paper                                                        |
+| :------------------- | :----------------------------------------------------------- |
 | Science 2022         | [Creating the ultimate virtual reality display](https://www.science.org/doi/full/10.1126/science.abq7011) |
 | IScience 2020        | [Augmented Reality and Virtual Reality Displays: Perspectives and Challenges](https://www.cell.com/iscience/pdf/S2589-0042(20)30585-X.pdf) |
 | Digital Optical Technologies 2019         | [Digital optical elements and technologies (EDO19): applications to AR/VR/MR](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11062/1106222/Digital-optical-elements-and-technologies-EDO19--applications-to-AR/10.1117/12.2544404.full?SSO=1) |
